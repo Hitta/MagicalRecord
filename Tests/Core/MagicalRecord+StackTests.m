@@ -7,7 +7,7 @@
 #import <CoreData/CoreData.h>
 #import <Expecta/Expecta.h>
 
-#import <MagicalRecord/MagicalRecord.h>
+#import "MagicalRecord.h>
 #import "MagicalRecordTestHelpers.h"
 
 @interface MagicalRecordTests : XCTestCase

@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "905D07171A63DE190076B54E"
                BuildableName = "MagicalRecord.framework"
-               BlueprintName = "MagicalRecord for iOS"
+               BlueprintName = "MagicalRecord iOS"
                ReferencedContainer = "container:MagicalRecord.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,7 +45,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "905D07171A63DE190076B54E"
             BuildableName = "MagicalRecord.framework"
-            BlueprintName = "MagicalRecord for iOS"
+            BlueprintName = "MagicalRecord iOS"
             ReferencedContainer = "container:MagicalRecord.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -67,7 +67,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "905D07171A63DE190076B54E"
             BuildableName = "MagicalRecord.framework"
-            BlueprintName = "MagicalRecord for iOS"
+            BlueprintName = "MagicalRecord iOS"
             ReferencedContainer = "container:MagicalRecord.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -91,7 +91,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "905D07171A63DE190076B54E"
             BuildableName = "MagicalRecord.framework"
-            BlueprintName = "MagicalRecord for iOS"
+            BlueprintName = "MagicalRecord iOS"
             ReferencedContainer = "container:MagicalRecord.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

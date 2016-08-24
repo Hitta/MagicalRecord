@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C7CF97BA1749843F008D9D13"
-               BuildableName = "libMagicalRecord.dylib"
-               BlueprintName = "libMagicalRecord for OS X"
+               BlueprintIdentifier = "905D073A1A63DE690076B54E"
+               BuildableName = "MagicalRecord.framework"
+               BlueprintName = "MagicalRecord macOS"
                ReferencedContainer = "container:MagicalRecord.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -33,13 +33,22 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C7CF9815174984E4008D9D13"
-               BuildableName = "libMagicalRecord for OS X Tests.xctest"
-               BlueprintName = "libMagicalRecord for OS X Tests"
+               BlueprintIdentifier = "9004F5251A94CBF900A61312"
+               BuildableName = "MagicalRecord for OS X Tests.xctest"
+               BlueprintName = "MagicalRecord for OS X Tests"
                ReferencedContainer = "container:MagicalRecord.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "905D073A1A63DE690076B54E"
+            BuildableName = "MagicalRecord.framework"
+            BlueprintName = "MagicalRecord macOS"
+            ReferencedContainer = "container:MagicalRecord.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -56,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7CF97BA1749843F008D9D13"
-            BuildableName = "libMagicalRecord.dylib"
-            BlueprintName = "libMagicalRecord for OS X"
+            BlueprintIdentifier = "905D073A1A63DE690076B54E"
+            BuildableName = "MagicalRecord.framework"
+            BlueprintName = "MagicalRecord macOS"
             ReferencedContainer = "container:MagicalRecord.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -77,6 +86,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "905D073A1A63DE690076B54E"
+            BuildableName = "MagicalRecord.framework"
+            BlueprintName = "MagicalRecord macOS"
+            ReferencedContainer = "container:MagicalRecord.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
